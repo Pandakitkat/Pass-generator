@@ -30,6 +30,6 @@ The Password Generator is licensed under the [MIT License](https://opensource.or
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please contact us at [your-email@example.com](mailto:your-email@example.com). We appreciate your interest in the Password Generator.
+If you have any questions, suggestions, or feedback, please contact us at kitkatpandamanic@gmail.com. We appreciate your interest in the Password Generator.
 
 Generate strong and secure passwords easily with the Password Generator!
